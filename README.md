@@ -1,3 +1,3 @@
-# Termination of Git of a Time-being
+# Termination of Git for a Time-being
 
 Last few touches
